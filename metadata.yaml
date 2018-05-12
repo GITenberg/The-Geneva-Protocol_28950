@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33601
     wikipedia: http://en.wikipedia.org/wiki/David_Hunter_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28950#The-Geneva-Protocol
 gutenberg_issued: '2009-05-24'
 gutenberg_type: Text
 identifiers:
